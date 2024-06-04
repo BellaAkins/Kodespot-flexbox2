@@ -210,6 +210,7 @@ body .container .third-box .image-box img:hover {
   }
   body .container .third-box {
     width:450px;
+    margin: 0 auto;
     background: cadetblue;
     display: flex;
     flex-direction: column;
@@ -221,6 +222,7 @@ body .container .third-box .image-box img:hover {
     display: block;
     margin: 0 auto;
     margin-top: 3em;
+    background: green;
   }
   body .container .third-box .text-box h3 {
   
