@@ -218,7 +218,6 @@ body .container .third-box .image-box img:hover {
   }
   body .container .third-box .text-box {
     color: #fff;
-    width: 350px;
     display: block;
     margin: 0 auto;
     margin-top: 3em;
@@ -250,6 +249,7 @@ body .container .third-box .image-box img:hover {
   body .container .third-box .image-box .footer-image {
     width: 250px;
     margin: 0 auto;
+    display: block;
     
   }
   body .container .third-box .image-box img {
