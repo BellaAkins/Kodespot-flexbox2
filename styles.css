@@ -209,7 +209,7 @@ body .container .third-box .image-box img:hover {
     font-size: 12px;
   }
   body .container .third-box {
-    width: 480px;
+    width: 300px;
     background: cadetblue;
     display: flex;
     flex-direction: column;
