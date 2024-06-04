@@ -250,7 +250,7 @@ body .container .third-box .image-box img:hover {
   body .container .third-box .image-box .footer-image {
     width: 250px;
     margin: 0 auto;
-    margin: 5em 8em;
+    
   }
   body .container .third-box .image-box img {
     filter: grayscale(100%);
