@@ -21,6 +21,7 @@
   flex-direction: row;
   padding: 30px;
   flex-wrap: wrap;
+  flex-basis: 40%;
 }
 .container .first-box .hero-image-container {
   position: relative;
@@ -30,19 +31,21 @@
   flex-shrink: 1;
 }
 .container .first-box .hero-image-container .name {
-  display: flex;
-  align-items: flex-end;
-  color: #fff;
-  font-size: 14px;
   position: absolute;
+  font-size: 1.3rem;
+  align-items: flex-end;
   bottom: 0;
-  left: 20px;
+  display: flex;
+  color: black;
+  color: #fff;
+  left: 2rem;
 }
-.container .first-box .hero-image-container .hero-image {
+.container .first-box .hero-image-container .hero-img {
   width: 100%;
   height: auto;
 }
 .container .first-box .about-me-box {
+  flex-basis: 40%;
   background: aqua;
   padding: 10px;
   width: 50%;
